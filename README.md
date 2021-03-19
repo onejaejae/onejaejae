@@ -1,6 +1,5 @@
-### 💻 Back-end Developer
+### 💻 Hello
 
-백엔드 개발자를 꿈꾸는 조원제입니다.
 
 ![Wonjae's GitHub stats](https://github-readme-stats.vercel.app/api?username=onejaejae&show_icons=true&theme=radical)
 
