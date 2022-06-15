@@ -1,4 +1,7 @@
 ### 💻 Hello
+---
+
+<br>
 
 
 ![Wonjae's GitHub stats](https://github-readme-stats.vercel.app/api?username=onejaejae&show_icons=true&theme=radical)
