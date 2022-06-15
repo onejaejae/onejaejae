@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://img.shields.io/badge/Notion-Notion?style=flat-square&logo=아이콘이름&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
