@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://debonair-serpent-2c0.notion.site/c6547546d7aa4964a1fa42a414f7bc69">
